@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "fastgpt",
+    "description": "这是我服务器的本地知识库",
+    "is_active": true,
+    "ip": "http://116.205.124.191:3000/api/v1/chat/completions",
+    "api_key": "fastgpt-plwtUv7ljIIaBvmkiMckXVW28sQhz5jShOdVsX1Pt7zNVUIXvfl4wD0K7m"
+  },
+  {
+    "id": 2,
+    "name": "题目",
+    "description": "这是题目的知识库",
+    "is_active": true,
+    "ip": "http://116.205.124.191:3000/api/v1/chat/completions",
+    "api_key": "fastgpt-zW4QTgEvQNWTIPxWUMpFirHFBzLzLALzR01ZOEoPLgltVOReLQj9DyY9"
+  }
+]

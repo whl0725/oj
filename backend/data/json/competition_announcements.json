@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "competition_id": 1,
+    "announcement_id": 1
+  },
+  {
+    "id": 3,
+    "competition_id": 3,
+    "announcement_id": 1
+  },
+  {
+    "id": 4,
+    "competition_id": 4,
+    "announcement_id": 1
+  },
+  {
+    "id": 5,
+    "competition_id": 5,
+    "announcement_id": 1
+  },
+  {
+    "id": 6,
+    "competition_id": 6,
+    "announcement_id": 1
+  },
+  {
+    "id": 7,
+    "competition_id": 7,
+    "announcement_id": 1
+  },
+  {
+    "id": 8,
+    "competition_id": 8,
+    "announcement_id": 1
+  },
+  {
+    "id": 9,
+    "competition_id": 9,
+    "announcement_id": 1
+  },
+  {
+    "id": 10,
+    "competition_id": 10,
+    "announcement_id": 1
+  },
+  {
+    "id": 11,
+    "competition_id": 11,
+    "announcement_id": 1
+  },
+  {
+    "id": 12,
+    "competition_id": 12,
+    "announcement_id": 1
+  }
+]

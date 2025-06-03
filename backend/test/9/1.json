@@ -1,0 +1,12 @@
+[
+    {
+        "input": "3",
+        "output": "1 2 3<br>8 9 4<br>7 6 5",
+        "explanation":"无"
+    },
+    {
+        "input": "4",
+        "output": "1 2 3 4<br>12 13 14 5<br>11 16 15 6<br>10 9 8 7",
+        "explanation":"无"
+    }
+]

@@ -1,0 +1,6 @@
+insert into oj.user (id, password, last_login, username, email, create_time, admin_type, problem_permission, is_disabled, is_superuser, is_staff, is_active)
+values  (1, 'pbkdf2_sha256$720000$KdMXm7toKDBSc02a1xtYFD$LjlvkFOLYkBy9WHVyXXAF/YF1gYUP6+RXr/9r4msVjA=', '2025-05-30 06:23:04.160180', 'whl', '1204400956@qq.com', '2025-05-12 13:17:26.823320', 'Super Admin', 'All', false, false, true, true),
+        (2, 'pbkdf2_sha256$720000$d21XKoXU4iQFHo3szMieOv$mmXP+xuHUjcvkYm79T/MSd/44Z43G4DOyZfPuoFfm+s=', null, '101', '1204400956@qq.com', '2025-05-20 14:22:17.965333', 'Regular User', 'None', false, false, false, true),
+        (3, 'pbkdf2_sha256$720000$d1z8yfT9kbJDp9U1l9aSQQ$In94ZBRXZ1Sck7IQYpeDDM5rSAZD3nY9xRp4XfKhd/U=', null, '102', 'hbjrxyzsb@126.com', '2025-05-20 14:23:41.207491', 'Regular User', 'None', false, false, false, true),
+        (4, 'pbkdf2_sha256$720000$FZR0iRvgDUb89qn6LrDoS8$vlcWJ5qWLdteXhoLCRppLRnFYXCjM40m68F9IBIW4Pg=', null, '123', '1613525878@qq.com', '2025-05-26 08:41:05.914017', 'Regular User', 'None', false, false, false, true),
+        (5, 'pbkdf2_sha256$720000$MK8pVOb4NJcUYntOjyQv6n$4jfAcYTtfW+xtQYd6DgbwWjytDvbK16u32LJLm/fxDA=', null, 'zzz', '169381525@qq.com', '2025-05-28 13:18:19.936883', 'Regular User', 'None', false, false, false, true);

@@ -1,0 +1,7 @@
+/home/whl/Desktop/oj/judge/build/CMakeFiles/judger.so.dir
+/home/whl/Desktop/oj/judge/build/CMakeFiles/edit_cache.dir
+/home/whl/Desktop/oj/judge/build/CMakeFiles/rebuild_cache.dir
+/home/whl/Desktop/oj/judge/build/CMakeFiles/list_install_components.dir
+/home/whl/Desktop/oj/judge/build/CMakeFiles/install.dir
+/home/whl/Desktop/oj/judge/build/CMakeFiles/install/local.dir
+/home/whl/Desktop/oj/judge/build/CMakeFiles/install/strip.dir

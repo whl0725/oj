@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/whl/Desktop/oj/judge/build",
+  "command": "/usr/bin/gcc   -g -Wall -Werror -O3 -std=c99 -pie -fPIC -g -o CMakeFiles/judger.so.dir/src/argtable3.c.o -c /home/whl/Desktop/oj/judge/src/argtable3.c",
+  "file": "/home/whl/Desktop/oj/judge/src/argtable3.c"
+},
+{
+  "directory": "/home/whl/Desktop/oj/judge/build",
+  "command": "/usr/bin/gcc   -g -Wall -Werror -O3 -std=c99 -pie -fPIC -g -o CMakeFiles/judger.so.dir/src/child.c.o -c /home/whl/Desktop/oj/judge/src/child.c",
+  "file": "/home/whl/Desktop/oj/judge/src/child.c"
+},
+{
+  "directory": "/home/whl/Desktop/oj/judge/build",
+  "command": "/usr/bin/gcc   -g -Wall -Werror -O3 -std=c99 -pie -fPIC -g -o CMakeFiles/judger.so.dir/src/killer.c.o -c /home/whl/Desktop/oj/judge/src/killer.c",
+  "file": "/home/whl/Desktop/oj/judge/src/killer.c"
+},
+{
+  "directory": "/home/whl/Desktop/oj/judge/build",
+  "command": "/usr/bin/gcc   -g -Wall -Werror -O3 -std=c99 -pie -fPIC -g -o CMakeFiles/judger.so.dir/src/logger.c.o -c /home/whl/Desktop/oj/judge/src/logger.c",
+  "file": "/home/whl/Desktop/oj/judge/src/logger.c"
+},
+{
+  "directory": "/home/whl/Desktop/oj/judge/build",
+  "command": "/usr/bin/gcc   -g -Wall -Werror -O3 -std=c99 -pie -fPIC -g -o CMakeFiles/judger.so.dir/src/main.c.o -c /home/whl/Desktop/oj/judge/src/main.c",
+  "file": "/home/whl/Desktop/oj/judge/src/main.c"
+},
+{
+  "directory": "/home/whl/Desktop/oj/judge/build",
+  "command": "/usr/bin/gcc   -g -Wall -Werror -O3 -std=c99 -pie -fPIC -g -o CMakeFiles/judger.so.dir/src/rules/c_cpp.c.o -c /home/whl/Desktop/oj/judge/src/rules/c_cpp.c",
+  "file": "/home/whl/Desktop/oj/judge/src/rules/c_cpp.c"
+},
+{
+  "directory": "/home/whl/Desktop/oj/judge/build",
+  "command": "/usr/bin/gcc   -g -Wall -Werror -O3 -std=c99 -pie -fPIC -g -o CMakeFiles/judger.so.dir/src/rules/c_cpp_file_io.c.o -c /home/whl/Desktop/oj/judge/src/rules/c_cpp_file_io.c",
+  "file": "/home/whl/Desktop/oj/judge/src/rules/c_cpp_file_io.c"
+},
+{
+  "directory": "/home/whl/Desktop/oj/judge/build",
+  "command": "/usr/bin/gcc   -g -Wall -Werror -O3 -std=c99 -pie -fPIC -g -o CMakeFiles/judger.so.dir/src/rules/general.c.o -c /home/whl/Desktop/oj/judge/src/rules/general.c",
+  "file": "/home/whl/Desktop/oj/judge/src/rules/general.c"
+},
+{
+  "directory": "/home/whl/Desktop/oj/judge/build",
+  "command": "/usr/bin/gcc   -g -Wall -Werror -O3 -std=c99 -pie -fPIC -g -o CMakeFiles/judger.so.dir/src/rules/golang.c.o -c /home/whl/Desktop/oj/judge/src/rules/golang.c",
+  "file": "/home/whl/Desktop/oj/judge/src/rules/golang.c"
+},
+{
+  "directory": "/home/whl/Desktop/oj/judge/build",
+  "command": "/usr/bin/gcc   -g -Wall -Werror -O3 -std=c99 -pie -fPIC -g -o CMakeFiles/judger.so.dir/src/rules/node.c.o -c /home/whl/Desktop/oj/judge/src/rules/node.c",
+  "file": "/home/whl/Desktop/oj/judge/src/rules/node.c"
+},
+{
+  "directory": "/home/whl/Desktop/oj/judge/build",
+  "command": "/usr/bin/gcc   -g -Wall -Werror -O3 -std=c99 -pie -fPIC -g -o CMakeFiles/judger.so.dir/src/runner.c.o -c /home/whl/Desktop/oj/judge/src/runner.c",
+  "file": "/home/whl/Desktop/oj/judge/src/runner.c"
+}
+]

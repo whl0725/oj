@@ -1,0 +1,7 @@
+[
+    {
+        "input": "43 4 5\n2 2 3 \n1 4 4\n4 6 3", 
+        "output": "good\n<p>\n    perfect\n</p>\n<p>\n    perfect\n</p>\n<p>\n    just a triangle\n</p>",
+        "explanation": "The first triangle is a right triangle, the second is an equilateral triangle, the third is an isosceles triangle, and the fourth is just a triangle."
+    }
+]

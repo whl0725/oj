@@ -1,0 +1,274 @@
+.page-container {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    //padding: 30px;
+    box-sizing: border-box;
+    color: #495060;  // 添加全局文字颜色
+  }
+  
+  .content-wrapper {
+    display: flex;
+    flex: 1;
+    gap: 20px;
+    // height: calc(100vh - 200px);  // 设置整体高度
+    height: auto;
+  }
+  
+  .main-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    // border-radius: 4px;
+    // box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;  // 添加滚动条
+  
+  }
+  .problem-list{
+    background: #fff;
+     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+      border-radius: 5px;
+      width: 100%;  // 确保题目列表填满父容器
+      overflow-x: auto;  // 允许横向滚动
+  }
+  .problem-header {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    background: #fff;
+    .header-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  
+      h2 {
+        margin: 0;
+        font-size: 21px;
+        font-weight: 500;
+        color: #495060;
+      }
+    }
+  }
+  
+  .filter-area {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  
+    .filter-select {
+      width: 120px;
+    }
+  
+    .tag-switch {
+      margin: 0 12px;
+    }
+  
+    .search-input {
+      width: 250px;
+    }
+  
+    .reset-btn {
+      background-color: #2d8cf0;
+      border-color: #2d8cf0;
+    }
+  }
+  
+  .difficulty {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 2px;
+    font-size: 12px;
+  
+    &.easy {
+      background: #e1f3d8;
+      color: #67c23a;
+    }
+  
+    &.medium {
+      background: #fdf6ec;
+      color: #e6a23c;
+    }
+  
+    &.hard {
+      background: #fef0f0;
+      color: #f56c6c;
+    }
+  }
+  
+  .solved {
+    color: #67c23a;
+  }
+  
+  .tags-panel {
+    width: 280px;
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    height: fit-content;  // 根据内容自适应高度
+    max-height: calc(100vh - 100px);  // 设置最大高度
+    overflow-y: auto;
+  }
+  
+  .panel-header {
+    padding: 12px 16px;
+    border-bottom: 1px solid #eee;
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 1;
+  
+    h3 {
+      margin: 0;
+      font-size: 21px;
+      font-weight: 500;
+      color: #495060;  // 修改标签面板标题颜色
+    }
+  }
+  
+  .tags-content {
+    padding: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .tag-item {
+    background-color: #2d8cf0 !important;
+    color: #fff;
+    line-height: 22px;  // 减小行高
+    padding: 0 8px;    // 减小内边距
+    border-radius: 3px;
+    height: 22px !important;  // 减小高度
+    box-sizing: border-box;
+    display: inline-block;
+    min-width: 30px;    // 减小最小宽度
+    text-align: center;
+    text-transform: capitalize;
+    cursor: default;
+    border: none;
+    font-size: 12px;    // 减小字体大小
+  }
+  
+  .tag-item:hover {
+    opacity: 0.9;
+  }
+  
+  .pagination {
+    padding-right: 0%;
+    //padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+    //margin-right: 20px;
+  
+    :deep(.el-pagination) {
+      .el-pagination__sizes {
+        .el-input__inner {
+          height: 32px;
+          line-height: 32px;
+        }
+      }
+  
+      .btn-prev,
+      .btn-next,
+      .el-pager li {
+        min-width: 32px;
+        height: 32px;
+        line-height: 32px;
+        font-size: 12px;
+        background: #ffffff;
+  
+        &.is-active {
+          background-color: #2d8cf0 !important;  // 设置激活状态的背景色
+          color: #fff;
+        }
+      }
+  
+      .el-pagination__jump .el-input__inner {
+        height: 32px;
+        line-height: 32px;
+      }
+  
+      // 设置鼠标悬停时的背景色
+      .el-pager li:hover {
+        color: #2d8cf0;
+      }
+    }
+  }
+  
+  // 响应式设计
+  @media screen and (max-width: 1200px) {
+    .content-wrapper {
+      flex-direction: column;
+    }
+  
+    .tags-panel {
+      width: 100%;
+    }
+  
+    .filter-area {
+      flex-wrap: wrap;
+      
+      .search-input {
+        width: 100%;
+      }
+    }
+  }
+  
+  :deep(.el-table) {
+    // 设置表格基本样式
+    border: none;
+    color: #495060;  // 修改表格文字颜色
+    width: 100%;  // 确保表格宽度为100%
+    
+    .el-table__header-wrapper {
+      th {
+        background-color: #f8f8f9;
+        border-bottom: 1px solid #ebeef5;
+        font-weight: 500;
+        color: #495060;  // 修改表头文字颜色
+        height: 45px;
+        padding: 0;
+      }
+    }
+  
+    .el-table__row {
+      td {
+        border-bottom: 1px solid #ebeef5;
+        height: 45px;
+        padding: 0;
+        color: #495060;  // 修改单元格文字颜色
+      }
+  
+      &:hover {
+        background-color: #f5f7fa;
+      }
+    }
+  }
+  
+  // 调整标签样式
+  :deep(.el-tag) {
+    &.el-tag--primary {
+      width: auto;
+      background-color: #fff !important;
+      border-color: #2d8cf0;
+      color: #2d8cf0;
+      padding: 0 8px;
+      height: 28px;
+      line-height: 28px;
+      border-radius: 15px;
+    }
+  }
+  :deep(.el-table .cell){
+    line-height: 35px;
+    padding: 0;
+  }
+  
+  :deep(.el-tag.el-tag--primary){
+      background-color: #fff !important;
+      border-color: #dddee1;
+      color: #495960; 
+      padding: 6px 12px;
+      // height: 24px;
+      line-height: 24px;
+      font-size: 13px;
+  }

@@ -1,0 +1,3 @@
+insert into oj.knowledge_base (id, name, description, is_active, ip, api_key)
+values  (1, 'fastgpt', '这是我服务器的本地知识库', true, 'http://116.205.124.191:3000/api/v1/chat/completions', 'fastgpt-plwtUv7ljIIaBvmkiMckXVW28sQhz5jShOdVsX1Pt7zNVUIXvfl4wD0K7m'),
+        (2, '题目', '这是题目的知识库', true, 'http://116.205.124.191:3000/api/v1/chat/completions', 'fastgpt-zW4QTgEvQNWTIPxWUMpFirHFBzLzLALzR01ZOEoPLgltVOReLQj9DyY9');

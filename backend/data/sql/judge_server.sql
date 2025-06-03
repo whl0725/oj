@@ -1,0 +1,2 @@
+insert into oj.judge_server (id, server_name, server_ip, server_port, server_status, server_create_time, server_token, server_HeartTime, is_disabled)
+values  (1, '判题机', '116.205.124.191', 4399, '0', '2025-05-13 22:27:35.000000', '123456', '2025-05-13 22:28:01.000000', false);

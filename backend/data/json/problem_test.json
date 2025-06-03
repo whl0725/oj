@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "problem": "10个数排序",
+    "test": [{"input": "454 457 831 307 388 41 106 38 899 919", "output": "38 41 106 307 388 454 457 831 899 919"}]
+  },
+  {
+    "id": 2,
+    "problem": "判断三角形形状",
+    "test": [{"input": "43 4 5\n2 2 3 \n1 4 4\n4 6 3", "output": "good\nperfect\nperfect\njust a triangle"}]
+  },
+  {
+    "id": 3,
+    "problem": "水仙花数",
+    "test": [{"input": "300 380", "output": "370 371"}, {"input": "100 399", "output": "153 370 371"}, {"input": "150 400", "output": "153 370 371"}, {"input": "300 380", "output": "370 371"}, {"input": "100 130", "output": "no\n"}, {"input": "300 350", "output": "no\n"}, {"input": "700 800\n", "output": "no"}, {"input": "100 150\n", "output": "no"}, {"input": "500 999", "output": "no"}]
+  },
+  {
+    "id": 4,
+    "problem": "完全背包问题",
+    "test": [{"input": "12 4\n2  1\n3  3\n4  5\n7  9\n", "output": "max=15"}, {"input": "200 8\n2 1\n3 3\n4 5\n7 9\n20 11\n30 33\n40 55\n70 99", "output": "max=278"}, {"input": "120 15\n2 2\n3 5\n6 2\n4 9\n3 8\n2 23\n12 32\n23 43\n2 12\n3 54\n55 32\n12 21\n32 321\n54 98\n65 98\n", "output": "max=2160"}]
+  },
+  {
+    "id": 5,
+    "problem": "十进制转八进制",
+    "test": [{"input": "99", "output": "143"}, {"input": "95", "output": "137"}, {"input": "51", "output": "63"}]
+  },
+  {
+    "id": 7,
+    "problem": "奇偶位互换",
+    "test": [{"input": "2\n0110\n1100", "output": "1001\n1100"}]
+  },
+  {
+    "id": 8,
+    "problem": "求最大公约数和最小公倍数",
+    "test": [{"input": "6 8", "output": "2 24"}, {"input": "10 15", "output": "5 30"}]
+  },
+  {
+    "id": 9,
+    "problem": "删数问题",
+    "test": [{"input": "68129545206\n5", "output": "124206"}, {"input": "945689429617746696374\n10", "output": "17746696374"}]
+  },
+  {
+    "id": 10,
+    "problem": "二维数组输出",
+    "test": [{"input": "3", "output": "1 2 3\n8 9 4\n7 6 5"}, {"input": "4", "output": "1 2 3 4\n12 13 14 5\n11 16 15 6\n10 9 8 7"}]
+  },
+  {
+    "id": 11,
+    "problem": "数组元素的查找",
+    "test": [{"input": "4\n1 2 3 3\n3 2 1 3\n3 2 3 1\n3 3 1 2", "output": "3"}]
+  },
+  {
+    "id": 12,
+    "problem": "数组元素的查找",
+    "test": [{"input": "4\n1 2 3 3\n3 2 1 3\n3 2 3 1\n3 3 1 2", "output": "3"}]
+  },
+  {
+    "id": 13,
+    "problem": "第K小整数",
+    "test": [{"input": "10 3\n1 3 3 7 2 5 1 2 4 6", "output": "3"}]
+  }
+]

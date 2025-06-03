@@ -1,0 +1,6 @@
+backend/.idea
+backend/.venv
+frontend/.idea
+frontend/node_modules
+frontend/.vscode
+judge/test

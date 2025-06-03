@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "alias": "第一题",
+    "score": 0,
+    "submission_number": 15,
+    "accepted_number": 3,
+    "competition_id": 1,
+    "problem_id": 1
+  },
+  {
+    "id": 5,
+    "alias": "第一题",
+    "score": 0,
+    "submission_number": 27,
+    "accepted_number": 12,
+    "competition_id": 12,
+    "problem_id": 1
+  },
+  {
+    "id": 6,
+    "alias": "第二题",
+    "score": 21,
+    "submission_number": 36,
+    "accepted_number": 23,
+    "competition_id": 12,
+    "problem_id": 2
+  },
+  {
+    "id": 7,
+    "alias": "第三题",
+    "score": 0,
+    "submission_number": 23,
+    "accepted_number": 2,
+    "competition_id": 12,
+    "problem_id": 3
+  },
+  {
+    "id": 8,
+    "alias": "第四题",
+    "score": 0,
+    "submission_number": 123,
+    "accepted_number": 23,
+    "competition_id": 12,
+    "problem_id": 5
+  }
+]

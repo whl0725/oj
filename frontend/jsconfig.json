@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  // "preserveValueImports": false,
+  "exclude": ["node_modules", "dist"]
+}

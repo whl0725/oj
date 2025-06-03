@@ -1,0 +1,7 @@
+{
+    "cpp":"cpp", 
+    "python":"python", 
+    "java":"java", 
+    "golang":"golang", 
+    "c":"c"
+}

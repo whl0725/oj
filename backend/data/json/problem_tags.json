@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "problem_id": 1,
+    "problemtag_id": 1
+  },
+  {
+    "id": 2,
+    "problem_id": 2,
+    "problemtag_id": 1
+  },
+  {
+    "id": 3,
+    "problem_id": 3,
+    "problemtag_id": 3
+  },
+  {
+    "id": 4,
+    "problem_id": 4,
+    "problemtag_id": 4
+  },
+  {
+    "id": 5,
+    "problem_id": 5,
+    "problemtag_id": 5
+  },
+  {
+    "id": 6,
+    "problem_id": 6,
+    "problemtag_id": 6
+  },
+  {
+    "id": 7,
+    "problem_id": 7,
+    "problemtag_id": 3
+  },
+  {
+    "id": 8,
+    "problem_id": 8,
+    "problemtag_id": 7
+  },
+  {
+    "id": 9,
+    "problem_id": 9,
+    "problemtag_id": 8
+  },
+  {
+    "id": 10,
+    "problem_id": 10,
+    "problemtag_id": 9
+  },
+  {
+    "id": 11,
+    "problem_id": 11,
+    "problemtag_id": 10
+  }
+]

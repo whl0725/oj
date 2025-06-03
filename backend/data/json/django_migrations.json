@@ -1,0 +1,350 @@
+[
+  {
+    "id": 1,
+    "app": "user",
+    "name": "0001_initial",
+    "applied": "2025-05-12 13:12:07.744146"
+  },
+  {
+    "id": 2,
+    "app": "contenttypes",
+    "name": "0001_initial",
+    "applied": "2025-05-12 13:12:07.841246"
+  },
+  {
+    "id": 3,
+    "app": "admin",
+    "name": "0001_initial",
+    "applied": "2025-05-12 13:12:08.107093"
+  },
+  {
+    "id": 4,
+    "app": "admin",
+    "name": "0002_logentry_remove_auto_add",
+    "applied": "2025-05-12 13:12:08.127601"
+  },
+  {
+    "id": 5,
+    "app": "admin",
+    "name": "0003_logentry_add_action_flag_choices",
+    "applied": "2025-05-12 13:12:08.148311"
+  },
+  {
+    "id": 6,
+    "app": "contenttypes",
+    "name": "0002_remove_content_type_name",
+    "applied": "2025-05-12 13:12:08.357050"
+  },
+  {
+    "id": 7,
+    "app": "auth",
+    "name": "0001_initial",
+    "applied": "2025-05-12 13:12:08.856269"
+  },
+  {
+    "id": 8,
+    "app": "auth",
+    "name": "0002_alter_permission_name_max_length",
+    "applied": "2025-05-12 13:12:08.986341"
+  },
+  {
+    "id": 9,
+    "app": "auth",
+    "name": "0003_alter_user_email_max_length",
+    "applied": "2025-05-12 13:12:09.006096"
+  },
+  {
+    "id": 10,
+    "app": "auth",
+    "name": "0004_alter_user_username_opts",
+    "applied": "2025-05-12 13:12:09.027153"
+  },
+  {
+    "id": 11,
+    "app": "auth",
+    "name": "0005_alter_user_last_login_null",
+    "applied": "2025-05-12 13:12:09.046231"
+  },
+  {
+    "id": 12,
+    "app": "auth",
+    "name": "0006_require_contenttypes_0002",
+    "applied": "2025-05-12 13:12:09.064883"
+  },
+  {
+    "id": 13,
+    "app": "auth",
+    "name": "0007_alter_validators_add_error_messages",
+    "applied": "2025-05-12 13:12:09.084754"
+  },
+  {
+    "id": 14,
+    "app": "auth",
+    "name": "0008_alter_user_username_max_length",
+    "applied": "2025-05-12 13:12:09.104034"
+  },
+  {
+    "id": 15,
+    "app": "auth",
+    "name": "0009_alter_user_last_name_max_length",
+    "applied": "2025-05-12 13:12:09.124091"
+  },
+  {
+    "id": 16,
+    "app": "auth",
+    "name": "0010_alter_group_name_max_length",
+    "applied": "2025-05-12 13:12:09.169357"
+  },
+  {
+    "id": 17,
+    "app": "auth",
+    "name": "0011_update_proxy_permissions",
+    "applied": "2025-05-12 13:12:09.229955"
+  },
+  {
+    "id": 18,
+    "app": "auth",
+    "name": "0012_alter_user_first_name_max_length",
+    "applied": "2025-05-12 13:12:09.249437"
+  },
+  {
+    "id": 19,
+    "app": "authtoken",
+    "name": "0001_initial",
+    "applied": "2025-05-12 13:12:09.388469"
+  },
+  {
+    "id": 20,
+    "app": "authtoken",
+    "name": "0002_auto_20160226_1747",
+    "applied": "2025-05-12 13:12:09.413934"
+  },
+  {
+    "id": 21,
+    "app": "authtoken",
+    "name": "0003_tokenproxy",
+    "applied": "2025-05-12 13:12:09.433362"
+  },
+  {
+    "id": 22,
+    "app": "authtoken",
+    "name": "0004_alter_tokenproxy_options",
+    "applied": "2025-05-12 13:12:09.451449"
+  },
+  {
+    "id": 23,
+    "app": "captcha",
+    "name": "0001_initial",
+    "applied": "2025-05-12 13:12:09.509677"
+  },
+  {
+    "id": 24,
+    "app": "captcha",
+    "name": "0002_alter_captchastore_id",
+    "applied": "2025-05-12 13:12:09.529000"
+  },
+  {
+    "id": 25,
+    "app": "problem",
+    "name": "0001_initial",
+    "applied": "2025-05-12 13:12:10.436250"
+  },
+  {
+    "id": 26,
+    "app": "competition",
+    "name": "0001_initial",
+    "applied": "2025-05-12 13:12:11.230182"
+  },
+  {
+    "id": 27,
+    "app": "home",
+    "name": "0001_initial",
+    "applied": "2025-05-12 13:12:11.394656"
+  },
+  {
+    "id": 28,
+    "app": "judger",
+    "name": "0001_initial",
+    "applied": "2025-05-12 13:12:11.451175"
+  },
+  {
+    "id": 29,
+    "app": "sessions",
+    "name": "0001_initial",
+    "applied": "2025-05-12 13:12:11.558272"
+  },
+  {
+    "id": 30,
+    "app": "default",
+    "name": "0001_initial",
+    "applied": "2025-05-12 13:12:11.993336"
+  },
+  {
+    "id": 31,
+    "app": "social_auth",
+    "name": "0001_initial",
+    "applied": "2025-05-12 13:12:12.009893"
+  },
+  {
+    "id": 32,
+    "app": "default",
+    "name": "0002_add_related_name",
+    "applied": "2025-05-12 13:12:12.035271"
+  },
+  {
+    "id": 33,
+    "app": "social_auth",
+    "name": "0002_add_related_name",
+    "applied": "2025-05-12 13:12:12.053274"
+  },
+  {
+    "id": 34,
+    "app": "default",
+    "name": "0003_alter_email_max_length",
+    "applied": "2025-05-12 13:12:12.094277"
+  },
+  {
+    "id": 35,
+    "app": "social_auth",
+    "name": "0003_alter_email_max_length",
+    "applied": "2025-05-12 13:12:12.111038"
+  },
+  {
+    "id": 36,
+    "app": "default",
+    "name": "0004_auto_20160423_0400",
+    "applied": "2025-05-12 13:12:12.135062"
+  },
+  {
+    "id": 37,
+    "app": "social_auth",
+    "name": "0004_auto_20160423_0400",
+    "applied": "2025-05-12 13:12:12.151507"
+  },
+  {
+    "id": 38,
+    "app": "social_auth",
+    "name": "0005_auto_20160727_2333",
+    "applied": "2025-05-12 13:12:12.201336"
+  },
+  {
+    "id": 39,
+    "app": "social_django",
+    "name": "0006_partial",
+    "applied": "2025-05-12 13:12:12.302057"
+  },
+  {
+    "id": 40,
+    "app": "social_django",
+    "name": "0007_code_timestamp",
+    "applied": "2025-05-12 13:12:12.455255"
+  },
+  {
+    "id": 41,
+    "app": "social_django",
+    "name": "0008_partial_timestamp",
+    "applied": "2025-05-12 13:12:12.605857"
+  },
+  {
+    "id": 42,
+    "app": "social_django",
+    "name": "0009_auto_20191118_0520",
+    "applied": "2025-05-12 13:12:12.825183"
+  },
+  {
+    "id": 43,
+    "app": "social_django",
+    "name": "0010_uid_db_index",
+    "applied": "2025-05-12 13:12:12.879056"
+  },
+  {
+    "id": 44,
+    "app": "social_django",
+    "name": "0011_alter_id_fields",
+    "applied": "2025-05-12 13:12:13.317162"
+  },
+  {
+    "id": 45,
+    "app": "social_django",
+    "name": "0012_usersocialauth_extra_data_new",
+    "applied": "2025-05-12 13:12:13.513883"
+  },
+  {
+    "id": 46,
+    "app": "social_django",
+    "name": "0013_migrate_extra_data",
+    "applied": "2025-05-12 13:12:13.611567"
+  },
+  {
+    "id": 47,
+    "app": "social_django",
+    "name": "0014_remove_usersocialauth_extra_data",
+    "applied": "2025-05-12 13:12:13.774186"
+  },
+  {
+    "id": 48,
+    "app": "social_django",
+    "name": "0015_rename_extra_data_new_usersocialauth_extra_data",
+    "applied": "2025-05-12 13:12:13.869211"
+  },
+  {
+    "id": 49,
+    "app": "social_django",
+    "name": "0016_alter_usersocialauth_extra_data",
+    "applied": "2025-05-12 13:12:13.892366"
+  },
+  {
+    "id": 50,
+    "app": "social_django",
+    "name": "0001_initial",
+    "applied": "2025-05-12 13:12:13.926034"
+  },
+  {
+    "id": 51,
+    "app": "social_django",
+    "name": "0004_auto_20160423_0400",
+    "applied": "2025-05-12 13:12:13.943293"
+  },
+  {
+    "id": 52,
+    "app": "social_django",
+    "name": "0003_alter_email_max_length",
+    "applied": "2025-05-12 13:12:13.959696"
+  },
+  {
+    "id": 53,
+    "app": "social_django",
+    "name": "0002_add_related_name",
+    "applied": "2025-05-12 13:12:13.975914"
+  },
+  {
+    "id": 54,
+    "app": "social_django",
+    "name": "0005_auto_20160727_2333",
+    "applied": "2025-05-12 13:12:13.993017"
+  },
+  {
+    "id": 55,
+    "app": "competition",
+    "name": "0002_competition_announcements",
+    "applied": "2025-05-12 13:20:07.428989"
+  },
+  {
+    "id": 56,
+    "app": "AI",
+    "name": "0001_initial",
+    "applied": "2025-05-22 09:03:55.787748"
+  },
+  {
+    "id": 57,
+    "app": "AI",
+    "name": "0002_alter_knowledgebase_ip",
+    "applied": "2025-05-22 11:38:33.860399"
+  },
+  {
+    "id": 58,
+    "app": "competition",
+    "name": "0003_alter_competitionproblem_alias",
+    "applied": "2025-05-30 03:24:08.683533"
+  }
+]

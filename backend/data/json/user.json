@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "password": "pbkdf2_sha256$720000$KdMXm7toKDBSc02a1xtYFD$LjlvkFOLYkBy9WHVyXXAF/YF1gYUP6+RXr/9r4msVjA=",
+    "last_login": "2025-05-30 06:23:04.160180",
+    "username": "whl",
+    "email": "1204400956@qq.com",
+    "create_time": "2025-05-12 13:17:26.823320",
+    "admin_type": "Super Admin",
+    "problem_permission": "All",
+    "is_disabled": false,
+    "is_superuser": false,
+    "is_staff": true,
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "password": "pbkdf2_sha256$720000$d21XKoXU4iQFHo3szMieOv$mmXP+xuHUjcvkYm79T/MSd/44Z43G4DOyZfPuoFfm+s=",
+    "last_login": null,
+    "username": "101",
+    "email": "1204400956@qq.com",
+    "create_time": "2025-05-20 14:22:17.965333",
+    "admin_type": "Regular User",
+    "problem_permission": "None",
+    "is_disabled": false,
+    "is_superuser": false,
+    "is_staff": false,
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "password": "pbkdf2_sha256$720000$d1z8yfT9kbJDp9U1l9aSQQ$In94ZBRXZ1Sck7IQYpeDDM5rSAZD3nY9xRp4XfKhd/U=",
+    "last_login": null,
+    "username": "102",
+    "email": "hbjrxyzsb@126.com",
+    "create_time": "2025-05-20 14:23:41.207491",
+    "admin_type": "Regular User",
+    "problem_permission": "None",
+    "is_disabled": false,
+    "is_superuser": false,
+    "is_staff": false,
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "password": "pbkdf2_sha256$720000$FZR0iRvgDUb89qn6LrDoS8$vlcWJ5qWLdteXhoLCRppLRnFYXCjM40m68F9IBIW4Pg=",
+    "last_login": null,
+    "username": "123",
+    "email": "1613525878@qq.com",
+    "create_time": "2025-05-26 08:41:05.914017",
+    "admin_type": "Regular User",
+    "problem_permission": "None",
+    "is_disabled": false,
+    "is_superuser": false,
+    "is_staff": false,
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "password": "pbkdf2_sha256$720000$MK8pVOb4NJcUYntOjyQv6n$4jfAcYTtfW+xtQYd6DgbwWjytDvbK16u32LJLm/fxDA=",
+    "last_login": null,
+    "username": "zzz",
+    "email": "169381525@qq.com",
+    "create_time": "2025-05-28 13:18:19.936883",
+    "admin_type": "Regular User",
+    "problem_permission": "None",
+    "is_disabled": false,
+    "is_superuser": false,
+    "is_staff": false,
+    "is_active": true
+  }
+]
