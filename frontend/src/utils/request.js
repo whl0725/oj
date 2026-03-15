@@ -1,7 +1,7 @@
 import axios from "axios";
 import { useStore } from '@/store/user'; // 引入Pinia用户store
 import router from '@/router';  // 引入router
-const baseURL = "http://localhost:8000"
+const baseURL = "http://43.138.0.117:8000"
 //import user from '@/store/user'
 const errorHandle = (status, info) => {
     switch (status) {
