@@ -83,6 +83,7 @@ HUEY = {
 CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+    "http://43.138.0.117:80"
 ]
 
 # 添加允许的请求头
@@ -426,9 +427,9 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 
 # redis的配置
-REDIS_HOST = '116.205.124.191'
+REDIS_HOST = '43.138.0.117'
 REDIS_PORT = 6379
-REDIS_PASSWORD = 'whl77585211'
+REDIS_PASSWORD = 'redis_y3RAjE'
 REDIS_DB = 0
 REDIS_PROBLEM_DB =1
 REDIS_SUBMIT_DB = 2
