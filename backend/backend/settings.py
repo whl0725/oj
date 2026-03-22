@@ -83,7 +83,7 @@ HUEY = {
 CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "http://43.138.0.117:80"
+    "http://43.138.0.117"
 ]
 
 # 添加允许的请求头
